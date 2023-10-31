@@ -7,7 +7,7 @@ image:
   repository: 020363709337.dkr.ecr.ap-northeast-2.amazonaws.com/django
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "7498f"
+  tag: "ae2fa"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""

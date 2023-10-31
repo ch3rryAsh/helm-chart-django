@@ -35,7 +35,7 @@ securityContext: {}
 # runAsUser: 1000
 
 service:
-  type: LoabBalancer
+  type: LoadBalancer
   port: 80
   targetPort: 8000 # .values.service.targetPort로 사용 가능
 ingress:
